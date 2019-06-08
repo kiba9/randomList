@@ -1,0 +1,162 @@
+revolvaire a la charge dans la main pas de crans de surté
+dechaine sur le beat personne ne peut m'arreter
+entrez dans la zone tous MC veulent fumez
+
+698 55 45 30XV
+
+---------------------------------------Succeed---------------------------------------
+cena
+HeZ7NPC%%sx(B&1hC!
+
+-------------------------------la cave simson hotel--------------------------------
+
+cedric
+D5g7bIOz5wyr5I(@gH
+
+
+jonathan
+@kcC#Hf6nPjv&4@6lHGSInpg
+
+hotelcsh
+*8@8ZxLyx71)pOEouIHK
+
+hotcsh
+lw$iPLA$jaX4lWjXqdqK
+
+adminhotcsh
+admin
+
+------------------------------Identifiant Elegant Theme-----------------------------
+
+easyweb-italia
+
+4764fbb159e067e22458285444e844c313f26d6d
+
+------------------------------Idée nom de domaine------------------------------------
+
+T4Web.com
+Webblou.com
+
+
+------------------------------css header divi---------------------------------------
+
+#et-info, #et-secondary-menu>ul>li a {
+    display: block;
+    padding-bottom: .75em;
+    float: right;
+}
+
+#top-menu .current-menu-item a::before,
+#top-menu .current_page_item a::before{
+	content:'';
+	position:absolute;
+	z-index:2;
+	left:0;
+	right:0;
+}
+
+#top-menu li a:before{
+	content:'';
+	position:absolute;
+	z-index:-2;
+	left:0;
+	right:100%;
+	bottom:0;
+	background:#2e3192;
+	height:3px;
+	-webkit-transition: right .3s ease-out;
+    -moz-transition: right .3s ease-out;
+    transition: right .3s ease-out;
+}
+
+#top-menu li a:hover{
+	opacity: 1 !important;
+}
+
+#top-menu li a:hover:before{
+	right:0;
+}
+
+#top-menu li li a:hover{
+	bottom:10%;
+}
+
+
+
+#top-menu .current-menu-item a::before,
+#top-menu .current_page_item a::before{
+	content:'';
+	position:absolute;
+	z-index:2;
+	left:0;
+	right:0;
+}
+
+#top-menu li a:before{
+	content:'';
+	position:absolute;
+	z-index:-2;
+	left:0;
+	right:100%;
+	bottom:50%;
+	background:#34AF35;
+	height:3px;
+	-webkit-transition: right .4s ease-in-out;
+    -moz-transition: right .4s ease-in-out;
+    transition: right .4s ease-in-out;
+}
+
+#top-menu li a:hover{
+	opacity: 1 !important;
+}
+
+#top-menu li a:hover:before{
+	right:0;
+}
+
+#top-menu li li a:hover{
+	bottom:10%;
+}
+
+
+MOUPOJOUEMMA@YAHOO.FR
+ADAMOU.NACER@GMAIL.COM
+
+-------------------------------demarche de modelisation----------------------------------
+demarche up, rup.
+
+
+-------------------------------FORMULE DU TRIANGLE DE PASCAL------------------------
+
+Factoriel
+La Combination
+
+n!/p!(n-p)! 
+
+-------------------------------git----------------------------
+user name: cedric7
+email: songcedriccena@yahoo.fr
+
+----------------------------gitlab----------------------------
+kiba9
+Abp-w!,c]#FJ17
+
+-----------------------------------cahier de conception---------------------------
+lansi : diagr Comp, Algorithmes
+Momo: diagr Deploi, Algorithmes
+Moi:Diag de Classe de conception, Algorithmes
+
+
+----------------------------------------------------------------------------------
+
+des erreur j'en ai fait et je t'ai lancé souvent des mots 
+Mais t'avaoir laisser laisser partir etait la pire entre autre choses
+je n'ai pas su te retenir
+je n'ai pas trouvé la force pour te dire i'm sorry
+ma vie n'a plus de sens et depuis 2ans j'en paye les pots.
+
+baby, 
+
+icone
+contrat d'installation 
+script d'installation de la BD
